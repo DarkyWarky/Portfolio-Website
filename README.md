@@ -1,8 +1,3 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I developed a portfolio website using React, integrating Framer Motion for smooth animations and React Material UI for a modern, responsive design. The website features a clean, minimalist layout, showcasing my work and skills. Framer Motion allowed for fluid transitions and interactive elements, enhancing the user experience, while Material UI ensured consistent styling and component-based development. This project highlights my proficiency in modern web development tools and libraries, combining aesthetics with functionality.
